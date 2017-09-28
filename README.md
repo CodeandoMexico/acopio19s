@@ -5,65 +5,28 @@
 [![website](https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg)](http://www.codeandomexico.org/)
 [![slack](https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg)](http://slack.codeandomexico.org/)
 
-# Nombre del proyecto
+# Acopio19s
 
-**tl;dr**: Descripción de tu proyecto en un tweet.
+Gestion de ayuda en situaciones excepcionales.
 
 ## Acerca del proyecto
 
-Este proyecto es una plantilla para crear proyectos en Codeando México. Puedes forkearla y modificarla o simplemente tomar lo que necesites. Modifícala a tu gusto. No es necesario referir a este documento en los créditos. El proyecto cuenta ya con:
+Este proyecto nació luego de los lamentables terremotos ocurridos en Mexico en septiembre de 2017. En ese momento se creó una situación de caos seguida por una oleada de solidaridad. Pero al no existir una estructura u organización que gestionara todo se hacía en cierta medida confuso. En este proyecto aspiramos a crear herramientas útiles para este tipo de situaciones.
 
-- [x] README.md
-- [x] Etiquetas estándar en la sección de *issues*.
-- [x] Etiquetas en el about del proyecto.
-- [x] Template para HACKLOG.md
-- [x] Archivo LICENCE con licencia MIT.
-- [ ] Plantilla para guía de contribución
-- [ ] Plantilla de *issues*.
-- [ ] Más badges!
+## Estado: CONCEPCIÓN
 
-## Comienza
+- Estamos reuniendo información de como operan los centros de acopio y distribución de ayuda.
 
-### Descarga
+## Plan:
 
-1. **Escribe aquí el primer paso.**
-
-    Descripción breve del primer segundo.
-
-   ```
-   comando
-   $ otro comando
-   ```
-
-    ¿Qué sucede con este paso?
-   
-> **Nota**: Información adicional de este paso.
-
-2. **Segunda instrucción.**
-
-    Descripción breve del primer segundo.
-
-   ```
-   comando
-   $ otro comando
-   ```
-
-    ¿Qué sucede con este paso?
-
-
-### Instalación
-
-Utiliza como guía la sección de [Descarga](https://github.com/CodeandoMexico/civic-project-template#descarga). 
-
-
-### Ejecución
-
-Utiliza como guía la sección de [Ejecución](https://github.com/CodeandoMexico/civic-project-template#ejecucion)
-
+ [ ] Concepción, se reunirá información relevante a los procesos y necesidades de información en situaciones excepcionales
+ [ ] Diseño, creación de prototipos de interfaces de usuario y casos de uso
+ [ ] Elaboración, desarrollo total de la solución
+ [ ] Despliegue, acondicionamiento final de los sistemas en producción
+ [ ] Soporte y difusión
 
 ## Contribuye
 
-Incluye aquí las formas de contribuir a tu proyecto.
 
 
 ## Referencias
