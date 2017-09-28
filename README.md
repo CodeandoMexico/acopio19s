@@ -15,15 +15,19 @@ Este proyecto nació luego de los lamentables terremotos ocurridos en Mexico en 
 
 ## Estado: CONCEPCIÓN
 
-- Estamos reuniendo información de como operan los centros de acopio y distribución de ayuda.
+Estamos reuniendo información de como operan los centros de acopio y distribución de ayuda.
 
 ## Plan:
 
- [ ] Concepción, se reunirá información relevante a los procesos y necesidades de información en situaciones excepcionales
- [ ] Diseño, creación de prototipos de interfaces de usuario y casos de uso
- [ ] Elaboración, desarrollo total de la solución
- [ ] Despliegue, acondicionamiento final de los sistemas en producción
- [ ] Soporte y difusión
+ - Concepción, se reunirá información relevante a los procesos y necesidades de información en situaciones excepcionales
+ 
+ - Diseño, creación de prototipos de interfaces de usuario y casos de uso
+ 
+ - Elaboración, desarrollo total de la solución
+ 
+ - Despliegue, acondicionamiento final de los sistemas en producción
+ 
+ - Soporte y difusión
 
 ## Contribuye
 
