@@ -1,10 +1,3 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/6744123/26955582-3a94539e-4c7d-11e7-92cc-bc234bc2aeda.png" width="500" title="logo_codeando 1 -500">
-</p>
-
-[![website](https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg)](http://www.codeandomexico.org/)
-[![slack](https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg)](http://slack.codeandomexico.org/)
-
 # Acopio19s
 
 Gestion de ayuda en situaciones excepcionales.
